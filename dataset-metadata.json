@@ -1,0 +1,32 @@
+{
+  "title": "VORTEXLOCK Optical Surgery Corpus",
+  "version": "1.0.1",
+  "description": "Original deterministic synthetic corpus for blind noncommutative optical surgery and decision-focused counterfactual operator learning.",
+  "source_kind": "original deterministic synthetic dataset",
+  "upstream_datasets": [],
+  "contains_personal_data": false,
+  "contains_external_model_outputs": false,
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "canonical_source_url": "https://github.com/anjalikhatri019-hub/vortexlock-counterfactual-optics-dataset/releases/tag/v1.0.1",
+  "public_release_asset": {
+    "name": "VORTEXLOCK_public_dataset.zip",
+    "bytes": 629466349,
+    "sha256": "39c5c2145bb9f8315cb673a503093afdb9a9014c5a265e969dc4280518c7d119",
+    "download_url": "https://github.com/anjalikhatri019-hub/vortexlock-counterfactual-optics-dataset/releases/download/v1.0.1/VORTEXLOCK_public_dataset.zip"
+  },
+  "rows": {
+    "train": 1024,
+    "test": 320,
+    "total": 1344
+  },
+  "observation": {
+    "stored_probes": 6,
+    "observed_planes": 8,
+    "height": 64,
+    "width": 64,
+    "dtype": "uint16"
+  },
+  "private_material_published": false
+}
+

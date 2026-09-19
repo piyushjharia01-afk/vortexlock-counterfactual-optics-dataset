@@ -1,0 +1,14 @@
+{
+  "dataset_name": "VORTEXLOCK Optical Surgery Corpus",
+  "dataset_version": "1.0.1",
+  "dataset_license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_kind": "original deterministic synthetic dataset",
+  "source_url": "https://github.com/anjalikhatri019-hub/vortexlock-counterfactual-optics-dataset/releases/tag/v1.0.1",
+  "public_asset_name": "VORTEXLOCK_public_dataset.zip",
+  "public_asset_bytes": 629466349,
+  "public_asset_sha256": "39c5c2145bb9f8315cb673a503093afdb9a9014c5a265e969dc4280518c7d119",
+  "upstream_data": [],
+  "private_material_published": false
+}
+
