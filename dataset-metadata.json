@@ -1,0 +1,31 @@
+{
+  "title": "VORTEXLOCK Blind Optical Holonomy Corpus",
+  "version": "1.2.0",
+  "description": "Original deterministic synthetic corpus for oriented three-control optical holonomy cartography and compositional out-of-distribution control.",
+  "source_kind": "original deterministic synthetic dataset",
+  "upstream_datasets": [],
+  "contains_personal_data": false,
+  "contains_external_model_outputs": false,
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "canonical_source_url": "https://github.com/anjalikhatri019-hub/vortexlock-counterfactual-optics-dataset/releases/tag/v1.2.0",
+  "public_release_asset": {
+    "name": "VORTEXLOCK_public_dataset.zip",
+    "bytes": 629488570,
+    "sha256": "2ce91621da624a43934f9d3ba55b648242c3d49a8640c53b26337fa55556eeeb",
+    "download_url": "https://github.com/anjalikhatri019-hub/vortexlock-counterfactual-optics-dataset/releases/download/v1.2.0/VORTEXLOCK_public_dataset.zip"
+  },
+  "rows": {
+    "train": 1024,
+    "test": 320,
+    "total": 1344
+  },
+  "observation": {
+    "stored_probes": 6,
+    "observed_planes": 8,
+    "height": 64,
+    "width": 64,
+    "dtype": "uint16"
+  },
+  "private_material_published": false
+}
